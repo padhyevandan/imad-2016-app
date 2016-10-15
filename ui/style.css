@@ -5,6 +5,9 @@ body {
 }
 
 .center {
+    background-image: url("/ui/madi.png");
+    background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
 }
 
