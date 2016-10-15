@@ -5,9 +5,6 @@ body {
 }
 
 .center {
-    background-image: url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiK0MrRqtzPAhVHs48KHYqhDUkQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlKdTaSC_VV4&bvm=bv.135974163,d.c2I&psig=AFQjCNEevt-jfXrBf9RnWGXV1_V6U55wXg&ust=1476604518183788");
-    background-repeat: no-repeat;
-    background-position: center;
     text-align: center;
 }
 
@@ -27,7 +24,7 @@ body {
                 margin: 0 auto;
                 color: #6f6f6f;
                 max-width: 600px;
-                padding-top: 60px;
+                padding-top: 30px;
                 padding-right: 20px;
                 font-family: cursive;
 }
